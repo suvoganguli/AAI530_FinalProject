@@ -1,9 +1,9 @@
 **AAI-530-Final-Project**
 -
+
 - Project Status: Active
 
-** IoT-Driven Insights and Forecasting Using Deep Learning**
-
+**IoT-Driven Insights and Forecasting Using Deep Learning**
 -  
 
 **Partner(s)/Contributor(s)**
