@@ -62,7 +62,7 @@ commercial buildings.
 **Technologies**
 -
 - Python
-
+- Tableu Dashboard
 
 
 **License**
