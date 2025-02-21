@@ -23,9 +23,8 @@ Matthew Ongcapin
 Priscilla Marquez
 Subhabrata Ganguli
 
-**Methods Used**
+**Project Implementation Plan:**
 - 
-- Project Implementation Plan:
 The project is organized into the following phases:
 1. Data Preprocessing and Exploratory Data Analysis (EDA):
 ○ Perform EDA to identify energy consumption trends and anomalies.
